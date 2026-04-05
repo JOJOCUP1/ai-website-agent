@@ -1,6 +1,7 @@
 # AI Website Agent v5.0
 
 Telegram bot that edits your website using Gemini AI — with approval flow, backups, and auto-screenshots.
+mate jojua 
 
 ## Quick Start
 
@@ -13,6 +14,7 @@ cp .env.example .env
 # fill in .env
 node index.js
 ```
+
 
 ## Architecture
 
