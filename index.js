@@ -8,7 +8,7 @@ const { initScheduler } = require("./modules/scheduler");
 const Prism           = require("./modules/prism");
 const { log }         = require("./modules/logger");
 
-// Validate all required env vars before anything starts
+// Validate all required env vars before anything staასა
 validateEnv([
   "TELEGRAM_BOT_TOKEN",
   "TELEGRAM_CHAT_ID",
