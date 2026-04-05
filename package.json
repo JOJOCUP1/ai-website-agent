@@ -1,6 +1,6 @@
 {
   "name": "ai-website-agent",
-  "version": "5.0.0",
+  "version": "5.0.1",
   "description": "AI Website Agent — Telegram + Gemini + GitHub",
   "main": "index.js",
   "scripts": {
